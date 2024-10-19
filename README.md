@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is react application on the class based component , It is a news website creating with the help of news api .
 
 ## Available Scripts
 
